@@ -1,0 +1,15 @@
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\bin\Debug\net7.0\Seminar3_HW.exe
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\bin\Debug\net7.0\Seminar3_HW.deps.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\bin\Debug\net7.0\Seminar3_HW.runtimeconfig.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\bin\Debug\net7.0\Seminar3_HW.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\bin\Debug\net7.0\Seminar3_HW.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.csproj.AssemblyReference.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.AssemblyInfoInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.AssemblyInfo.cs
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.csproj.CoreCompileInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\refint\Seminar3_HW.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\Seminar3_HW.genruntimeconfig.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar3\Seminar3_HW\obj\Debug\net7.0\ref\Seminar3_HW.dll
